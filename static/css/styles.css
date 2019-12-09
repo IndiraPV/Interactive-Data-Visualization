@@ -1,0 +1,26 @@
+.jumbotron {
+    opacity: 0.5;
+    /* background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../assets/images/bacteria_by_filterforgedotcom.jpg"); */
+    background-image: url(../../Images/microbes-sem.jpg);
+    background-size: cover;
+ } 
+
+.transparent {
+    background-color:#4d3b30   !important;
+}
+.text-muted-footer {
+    /* Positioning */
+    margin-top: 15px;
+  
+    /* Typography */
+    color: #fff;
+  }
+  
+  .two-toned-footer-color {
+    /* Box-model */
+    height: 6px;
+    padding-top: 3px;
+  
+    /* Visual */
+    background-color: #29a854;
+  }
