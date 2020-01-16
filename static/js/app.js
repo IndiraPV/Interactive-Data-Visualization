@@ -28,7 +28,8 @@ function buildCharts(sample) {
     var bubbleLayout = {
       margin: { t: 0 },
       hovermode: "closest",
-      xaxis: { title: "OTU ID" }
+      xaxis: { title: "OTU ID" },
+      showlegend: false,
     };
     var bubbleData = [
       {
@@ -45,7 +46,7 @@ function buildCharts(sample) {
     ];
 
     Plotly.plot("bubble", bubbleData, bubbleLayout, 
-    {responsive: true, displayModeBar: false});
+    {responsive: true});
     
 
     // Build a Pie Chart

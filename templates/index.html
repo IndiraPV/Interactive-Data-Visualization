@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Interactive Visualization using Plotly</title>
-  <link rel="stylesheet" href="../static/css/styles.css">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.css">
 
 
@@ -54,7 +54,7 @@
     <div class="row">
       <div class="col-md-12">
         <div class="card transparent text-white">
-            <h5 class="card-header">Samples</h5>
+            <h5 class="card-header">Entire Set</h5>
           <div class="card-body">
             <div id="bubble"></div>
           </div>

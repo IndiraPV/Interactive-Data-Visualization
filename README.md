@@ -1,8 +1,8 @@
-# Challenge 15 - Interactive Data Visualization with Plotly
-
+# Interactive Data Visualization with Plotly
 ## Belly Button Biodiversity
-
 ![Bacteria by filterforge.com](Images/microbes-sem.jpg)
+
+## live [demo]()
 
 The coolest study of biodiversity on the human body on the planet!
 The belly button is one of the habitats closest to us, and yet it remains relatively unexplored. In January 2011, [The Public Science Lab](http://robdunnlab.com/) launched Belly Button Biodiversity to investigate the microbes inhabiting our navels and the factors that might influence the microscopic life calling this protected, moist patch of skin home. In addition to inspiring scientific curiosity, Belly Button Biodiversity inspired conversations about the beneficial roles microbes play in our daily lives.
@@ -47,9 +47,6 @@ For this challenge, built an interactive dashboard using Plotly.js to explore th
 
 
 ![Weekly Washing Frequency Gauge](Images/guage_chart.png)
-
-## Deployment: This was deployed on Amazon Web service.
-
 
 
 ### Copyright
