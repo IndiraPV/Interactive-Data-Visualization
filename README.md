@@ -2,7 +2,7 @@
 ## Belly Button Biodiversity
 ![Bacteria by filterforge.com](Images/microbes-sem.jpg)
 
-## live [demo]()
+## live [demo](http://ec2-18-224-60-188.us-east-2.compute.amazonaws.com:5000/)
 
 The coolest study of biodiversity on the human body on the planet!
 The belly button is one of the habitats closest to us, and yet it remains relatively unexplored. In January 2011, [The Public Science Lab](http://robdunnlab.com/) launched Belly Button Biodiversity to investigate the microbes inhabiting our navels and the factors that might influence the microscopic life calling this protected, moist patch of skin home. In addition to inspiring scientific curiosity, Belly Button Biodiversity inspired conversations about the beneficial roles microbes play in our daily lives.
